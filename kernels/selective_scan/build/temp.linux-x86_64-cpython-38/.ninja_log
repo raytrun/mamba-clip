@@ -1,0 +1,10 @@
+# ninja log v5
+1	15081	1711680614556282998	/home/yifanyang/hwq/ACLIP/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cus/selective_scan_core_fwd.o	ffd0dd836dac52b0
+1	25588	1711680625044633904	/home/yifanyang/hwq/ACLIP/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cus/selective_scan.o	4942469373a7e458
+1	50796	1711680650249477174	/home/yifanyang/hwq/ACLIP/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cus/selective_scan_core_bwd.o	2fe838a70f241df2
+7	14444	1711680665453985866	/home/yifanyang/hwq/ACLIP/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusndstate/selective_scan_core_fwd.o	11c2786cc68bcb10
+8	25596	1711680676586358319	/home/yifanyang/hwq/ACLIP/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusndstate/selective_scan_ndstate.o	f609701605aad047
+7	50626	1711680701619195834	/home/yifanyang/hwq/ACLIP/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusndstate/selective_scan_core_bwd.o	f80c8fd9dfc142c9
+8	22656	1711680725015978612	/home/yifanyang/hwq/ACLIP/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	535bfb640d17ef09
+8	25706	1711680728052080190	/home/yifanyang/hwq/ACLIP/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusoflex/selective_scan_oflex.o	a76ece1ea5a4e889
+7	82472	1711680784821979523	/home/yifanyang/hwq/ACLIP/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	3a1524be31e34777
