@@ -1,5 +1,5 @@
 # CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation 
-[[Paper](https://arxiv.org/pdf/2404.19394)][[🤗HF](https://huggingface.co/weiquan/mamba-clip/tree/main)]
+[[Paper](https://arxiv.org/pdf/2404.19394)][[🤗Ckpts](https://huggingface.co/weiquan/mamba-clip/tree/main)]
 ## Abstract
 '''State space models and Mamba-based models have been increasingly applied
 across various domains, achieving state-of-the-art performance. This technical
