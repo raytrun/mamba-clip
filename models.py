@@ -18,6 +18,7 @@ from timm.models.vision_transformer import (
 )
 
 from timm.models.layers import trunc_normal_ as __call_trunc_normal_
+import simba
 
 
 def get_att_mask(attention, ratio=0.5):
